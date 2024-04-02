@@ -1,1 +1,1 @@
-Well he collapsed of stevens johnson syndrome on the ER floor. 
+Well he collapsed of Stevens-Johnson syndrome on the E.R. floor. 
