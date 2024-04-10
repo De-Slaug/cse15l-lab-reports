@@ -1,52 +1,46 @@
-# 1) cd Examples
-
-### i) cd No Argument
+## 1.A) cd No Argument
 * Screenshot:
 * Absolute Path:
 * Why did I get this output?:
 * Was it an error?:
-## ii) cd To a Directory
+## 1.B) cd To a Directory
 * Screenshot:
 * Absolute Path:
 * Why did I get this output?:
 * Was it an error?:
-## iii) cd To a file
-* Screenshot:
-* Absolute Path:
-* Why did I get this output?:
-* Was it an error?:
-
-# 2) ls Examples
-
-## i) ls No Argument
-* Screenshot:
-* Absolute Path:
-* Why did I get this output?:
-* Was it an error?:
-## ii) ls To a Directory
-* Screenshot:
-* Absolute Path:
-* Why did I get this output?:
-* Was it an error?:
-## iii) ls To a file
+## 1.C) cd To a file
 * Screenshot:
 * Absolute Path:
 * Why did I get this output?:
 * Was it an error?:
 
-# 3) cat Examples
+## 2.A) ls No Argument
+* Screenshot:
+* Absolute Path:
+* Why did I get this output?:
+* Was it an error?:
+## 2.B) ls To a Directory
+* Screenshot:
+* Absolute Path:
+* Why did I get this output?:
+* Was it an error?:
+## 2.C) ls To a file
+* Screenshot:
+* Absolute Path:
+* Why did I get this output?:
+* Was it an error?:
 
-## i) cat No Argument
+## 3.A) cat No Argument
 * Screenshot:
 * Absolute Path:
 * Why did I get this output?:
 * Was it an error?:
-## ii) cat To a Directory
+## 3.B) cat To a Directory
 * Screenshot:
 * Absolute Path:
 * Why did I get this output?:
 * Was it an error?:
-## iii) cat To a file
+## 3.C) cat To a file
 * Screenshot:
 * Absolute Path:
 * Why did I get this output?:
