@@ -1,46 +1,49 @@
-## 1.A) cd No Argument
+# 1) cd - Changes the directory. 
+## A) cd: No Argument
 * Screenshot:
 * Absolute Path:
 * Why did I get this output?:
 * Was it an error?:
-## 1.B) cd To a Directory
+## B) cd: To a Directory
 * Screenshot:
 * Absolute Path:
 * Why did I get this output?:
 * Was it an error?:
-## 1.C) cd To a file
-* Screenshot:
-* Absolute Path:
-* Why did I get this output?:
-* Was it an error?:
-
-## 2.A) ls No Argument
-* Screenshot:
-* Absolute Path:
-* Why did I get this output?:
-* Was it an error?:
-## 2.B) ls To a Directory
-* Screenshot:
-* Absolute Path:
-* Why did I get this output?:
-* Was it an error?:
-## 2.C) ls To a file
+## C) cd: To a file
 * Screenshot:
 * Absolute Path:
 * Why did I get this output?:
 * Was it an error?:
 
-## 3.A) cat No Argument
+# 2) ls - Lists the files in a directory.
+## A) ls: No Argument
 * Screenshot:
 * Absolute Path:
 * Why did I get this output?:
 * Was it an error?:
-## 3.B) cat To a Directory
+## B) ls: To a Directory
 * Screenshot:
 * Absolute Path:
 * Why did I get this output?:
 * Was it an error?:
-## 3.C) cat To a file
+## C) ls: To a file
+* Screenshot:
+* Absolute Path:
+* Why did I get this output?:
+* Was it an error?:
+
+# 3) cat - Concatenates / merges multiple files and the contents thereof.
+## A) cat: No Argument
+* Screenshot:
+* Absolute Path:
+* Why did I get this output?:
+* Was it an error?:
+## B) cat: To a Directory
+* Screenshot:
+* Absolute Path:
+* Why did I get this output?:
+* Was it an error?:
+## C) cat: To a file
 * Screenshot:
 * Absolute Path:
 * Why did I get this output?:
