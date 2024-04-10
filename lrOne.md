@@ -1,5 +1,5 @@
 # 1) cd - Changes the directory. 
-  ## A) cd: No Argument
+## A) cd: No Argument
 * ![Image](cd no argument.PNG) 
 * Absolute Path: ![Image](absolutepath.PNG)
 * Why did I get this output?:
@@ -22,7 +22,7 @@
   * This was an error. `cd messages/en-us.txt` is telling the terminal to change diectories into the file `en-us.txt`, this is an impossible action, and there is no reason for the terminal to be able to resolve this. A file can not contain a file (at least within the realm of what I know now), so you cannot `cd` inside of it. 
 
 # 2) ls - Lists the files in a directory.
-  ## A) ls: No Argument
+## A) ls: No Argument
 * ![Image](cd no argument.PNG) 
 * Absolute Path: ![Image](absolutepath.PNG)
 * Why did I get this output?:
@@ -39,7 +39,7 @@
 * Was it an error?:
 
 # 3) cat - Concatenates / merges multiple files and the contents thereof.
-  ## A) cat: No Argument
+## A) cat: No Argument
 * ![Image](cat no argument.PNG) 
 * Absolute Path: ![Image](absolutepath.PNG)
 * Why did I get this output?:
