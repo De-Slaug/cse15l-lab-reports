@@ -41,7 +41,8 @@
     * Absolute Path: ![Image](absolutepath.PNG)
     * Why did I get this output?:
       * If `ls` targets a specific file, in this case a text file. It will simply print out the relative directory of the file youre targeting. Since I was in `~/lecture1` it just printed out `messages/en-us.txt`. 
-    * Was it an error?: No.
+    * Was it an error?:
+      * No.
 
 * # cat - Concatenates / merges multiple files and the contents thereof.
   * ## A) cat: No Argument
@@ -54,10 +55,14 @@
   * ## B) cat: To a Directory
     * ![Image](cat path to directory.PNG) 
     * Absolute Path: ![Image](absolutepath.PNG)
-    * Why did I get this output?: Because I attempted to use `cat` which concatenates files, on a directory. 
-    * Was it an error?: `cat` can merge and print out files to the terminal, because I attempted to use `cat` on a directory, there was nothing to print or merge, so an error was output. 
+    * Why did I get this output?:
+      * Because I attempted to use `cat` which concatenates files, on a directory. 
+    * Was it an error?:
+      * `cat` can merge and print out files to the terminal, because I attempted to use `cat` on a directory, there was nothing to print or merge, so an error was output. 
   * ## C) cat: To a file
     * ![Image](cat path to file.PNG) 
     * Absolute Path: ![Image](absolutepath.PNG)
-    * Why did I get this output?: `cat` has the function of merging and printing files, because I did not specify a second file, there was nothing to merge this file with, so cat just printed out the contents of the file `en-us.txt`
-    * Was it an error?: Not an error at all!
+    * Why did I get this output?:
+      * `cat` has the function of merging and printing files, because I did not specify a second file, there was nothing to merge this file with, so cat just printed out the contents of the file `en-us.txt`
+    * Was it an error?:
+      * Not an error at all!
