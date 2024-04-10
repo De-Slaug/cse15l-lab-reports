@@ -1,4 +1,5 @@
 # 1) cd Examples
+
 ## i) cd No Argument
 * Screenshot:
 * Absolute Path:
@@ -16,6 +17,7 @@
 * Was it an error?:
 
 # 2) ls Examples
+
 ## i) ls No Argument
 * Screenshot:
 * Absolute Path:
@@ -33,6 +35,7 @@
 * Was it an error?:
 
 # 3) cat Examples
+
 ## i) cat No Argument
 * Screenshot:
 * Absolute Path:
