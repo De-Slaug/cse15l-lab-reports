@@ -7,7 +7,8 @@
     * Was it an error?:
       * It was not an error !
   * ## B) cd: To a Directory
-    * ![Image](cd path to directory.PNG)* * Absolute Path: ![Image](absolutepath.PNG)
+    * ![Image](cd path to directory.PNG)
+    * Absolute Path: ![Image](absolutepath.PNG)
     * Why did I get this output?:
       * This one used `cd` in the most practical way. All it did was move us into the desired directory, in this case: `~/lecture1/messages`.
     * Was it an error?:
