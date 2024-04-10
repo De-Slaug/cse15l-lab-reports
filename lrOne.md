@@ -23,7 +23,7 @@
 
 * # ls - Lists the files in a directory.
   * ## A) ls: No Argument
-    * ![Image](cd no argument.PNG) 
+    * ![Image](ls no argument.PNG) 
     * Absolute Path: ![Image](absolutepath.PNG)
     * Why did I get this output?:
       *  `ls` lists out every item contained within the directory that you are currently in. So the terminal output every item in the `lecture1` folder. 
