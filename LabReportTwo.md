@@ -1,7 +1,6 @@
 * # Chat Server:
   * ## The Code:
     * ![Image](Code.PNG)
-    * Absolute Path: ![Image](absolutepath.PNG)
   * ## `add-message` - Example 1) 
     * ![Image](SC1.png)
     * Which methods are called?
