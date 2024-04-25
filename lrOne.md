@@ -3,7 +3,8 @@
     * ![Image](cd no argument.PNG)
     * Absolute Path: ![Image](absolutepath.PNG)
     * Why did I get this output?:
-      * `cd` with no argument means to go back to the previous directory, similar to `..`. As such, this command took us back to the directory before `lecture1`, that is. It took us to the home directory. In my case: `/c/Users/lonkn/`.
+      * ~~`cd` with no argument means to go back to the previous directory, similar to `..`. As such, this command took us back to the directory before `lecture1`, that is. It took us to the home directory In my case: `/c/Users/lonkn/`.~~
+      * The reason that my directory was changed to `/c/Users/lonkn/` is that what `cd` with no argument does, is change the current directory to the home directory. In my case my home directory is `/c/Users/lonkn/`.
     * Was it an error?:
       * It was not an error !
   * ## B) cd: To a Directory
