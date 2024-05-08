@@ -23,7 +23,7 @@
   *  ![Image](LSPublicKey.PNG)
   *  ![Image](lr2NoPassword.PNG)
  
-  *  I was not entirely sure of what to do for the NoPassword prompt since even though I had the keys where they needed to be the terminal always prompted me for a password. 
+  *  **UPDATE: Since my initial submission I have fixed my problem with still needing a password. I also changed how I ls'd into the path to the private key so that it actually worked. I just misunderstoof how exacrlty I was supposed to do that.** 
 
 * # Part 3 - Reflection:
   * Prior to this point I actually had a pretty poor understanding of how exactly these locally hosted servers actually functioned. I knew how to maneuver through them and add to their text files and such but I never took the time to understand what the contents of the program was actually saying. Making the chat server forced me to take a closer look into how they worked, like how queries were handled beyond just "change something in the address bar and now its new". I get that its just breaking down strings into components and saving that and then returning that. It's pretty cool. 
