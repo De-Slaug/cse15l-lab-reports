@@ -19,9 +19,9 @@
     * How are the values of the relevant fields changed in this specific request?
       * All this specific request changes from the last is the username and the actual contents of the message. 
 * # Part 2 - SSH;
-  *  ![Image](LSPrivateKey.PNG)
+  *  ![Image](Absolute Path to key location.PNG)
   *  ![Image](LSPublicKey.PNG)
-  *  ![Image](NoPassword.PNG)
+  *  ![Image](Login No Password Lab 3.PNG)
  
   *  I was not entirely sure of what to do for the NoPassword prompt since even though I had the keys where they needed to be the terminal always prompted me for a password. 
 
