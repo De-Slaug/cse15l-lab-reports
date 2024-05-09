@@ -5,3 +5,5 @@ Now peep this one: [Link](https://de-slaug.github.io/cse15l-lab-reports/slop.htm
 [CSE 15L Lab Report 1](https://de-slaug.github.io/cse15l-lab-reports/lrOne.html)
 
 [CSE 15L Lab Report 2](https://de-slaug.github.io/cse15l-lab-reports/LabReportTwo.html)
+
+[CSE 15L Lab Report 2](https://de-slaug.github.io/cse15l-lab-reports/LabReport3.md)
