@@ -144,3 +144,7 @@ NLS expanded when Legal Services Corp., the federal agency that
 funds providers of free legal services nationwide, reduced the
 number of grantees in the Los Angeles area from five to three,
 ```
+
+CITATIONS: 
+* https://www.geeksforgeeks.org/grep-command-in-unixlinux/
+* I liked this website it was very convenient and simple to understand. It clearly outlined all of the grep options. 
