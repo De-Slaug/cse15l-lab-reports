@@ -42,7 +42,33 @@
     `[1, 2, 3, 4, 5]`
     turning into:
     `[1, 2, 3, 2, 1]` 
-* # Part 2 - Researching Commands:
-  *  Command of Choice: Grep
-  *  ![Image](updatedSSHpath.PNG)
-  *  ![Image](lr2NoPassword.PNG)
+* # Part 2 - Researching Commands: My Command of Choice - Grep: 
+* ## Option One: -o
+* This one exclusively prints the parts of a line that are exactly matching with the input parameter.
+```
+Alex@DESKTOP-GV4CQHF MINGW64 ~/docsearch/technical/government/Alcohol_Problems (main)
+$ grep -o -n  "alcohol" DraftRecom-PDF.txt
+26:alcohol
+31:alcohol
+35:alcohol
+37:alcohol
+```
+    * (this goes on for dozens of lines)
+```
+Alex@DESKTOP-GV4CQHF MINGW64 ~/docsearch/technical/government/Media (main)
+$ grep -o -n  "poor" Advocate_for_poor.txt
+12:poor
+16:poor
+```
+* ## Option Two: -v
+* This one only prints out lines that dont match the parameter.
+* EX One:
+* Ex Two:     
+* ## Option Three: -h
+* This one will only displat matched lines but ignore outputting the file names.  
+* EX One:
+* Ex Two:   
+* ## Option Four: -C n
+* This one will print the lines in addition to the preceding lines.
+* EX One:
+* Ex Two:   
