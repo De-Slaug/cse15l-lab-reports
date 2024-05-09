@@ -56,8 +56,8 @@
 	31:alcohol
 	35:alcohol
 	37:alcohol
+        (this goes on for dozens of lines so I stopped it, I will also do this for later grep options.)
 	```
-	    * (this goes on for dozens of lines so I stopped it, I will also do this for later grep options.)
 	```
 	Alex@DESKTOP-GV4CQHF MINGW64 ~/docsearch/technical/government/Media (main)
 	$ grep -o -n  "poor" Advocate_for_poor.txt
