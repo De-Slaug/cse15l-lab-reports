@@ -8,6 +8,7 @@
       ArrayExamples.reverseInPlace(input1);
       assertArrayEquals(new int[]{ 7, 6, 5, 4, 3, 2, 1 }, input1)
     }
+    ```
   * ## My Non-Failure Inducing Input:
     ```
     public void testReverseInPlace() {
@@ -15,6 +16,7 @@
       ArrayExamples.reverseInPlace(input1);
       assertArrayEquals(new int[]{ 7 }, input1);
 	}
+    ```
   * ## The Symptom:
    * ![Image](symptom.png) 
   * ## The Buggy Code and the Fixed Code:
@@ -25,6 +27,7 @@
           arr[i] = arr[arr.length - i - 1];
         }
       }
+      ```
     * After (Resolved):
       ```
       static void reverseInPlace(int[] arr) {
@@ -37,6 +40,7 @@
           arr[k] = temp_array[k];
         }
       }
+      ```
   * ## Reflection:
     What I did was remake it so that we have two for loops. The job of the first for loop is to store the reverse of the values in our main array, then the second for loop just changes every value inside it to that of the new array. So we return the same loop but with the values reversed. Initially it just iterated through the loop and tried to each value to the value at the opposite end, however that would result in things like:
     `[1, 2, 3, 4, 5]`
