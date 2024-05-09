@@ -20,7 +20,7 @@
       * All this specific request changes from the last is the username and the actual contents of the message. 
 * # Part 2 - SSH;
   *  ![Image](ABSPathTrue.PNG)
-  *  ![Image](LSPublicKey.PNG)
+  *  ![Image](updatedSSHpath.PNG)
   *  ![Image](lr2NoPassword.PNG)
  
   *  **UPDATE: Since my initial submission I have fixed my problem with still needing a password. I also changed how I ls'd into the path to the private key so that it actually works. I had misunderstood what the prompt was asking.** 
