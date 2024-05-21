@@ -21,7 +21,7 @@
     * Key Strokes: `bash test.sh` <`enter`>
     * Summary: This was just me rerunning the `bash` script which tested the function. 
   * ## Step Six (Nine - Commit and push the resulting change to your Github account (you can pick any commit message!) )
-    * ![Image](pushin.PNG)
+    * ![Image](pushin.png)
     * Key Strokes: `git add` <`enter`> `git commit` <`enter`> `i` `I think this is the commit message`<`esc`> `:wq` <`enter`> `git push` <`enter`>
     * Summary: First I used `git add` to tell git what exactly I intend to add to the repository, then I used `git commit` to save all of those things, and finally `git push` to push it all to my actual repository. As seen here:
     * ![Image](gitProof.PNG)
