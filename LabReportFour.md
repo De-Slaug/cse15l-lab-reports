@@ -1,5 +1,5 @@
 * # Lab Report 4 - The Process
-  * ## Step 4 (Four - Log into ieng6)
+  * ## Step One (Four - Log into ieng6)
     * ![Image](SSH.png)
     * Key Strokes: `ssh nmoranbautista@ieng6.ucsd.edu` <`enter`>
   * ## Step Two (Five - Clone your fork of the repository from your Github account (using the SSH URL))
