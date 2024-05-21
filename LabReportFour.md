@@ -2,7 +2,7 @@
   * ## Step One (Log into ieng6)
     * ![Image](SSH.PNG)
     * Key Strokes: `ssh nmoranbautista@ieng6.ucsd.edu` <`enter`>
-    * Summary: This was just using an `SSH` to log into my ieng6 account. 
+    * Summary: This was just using an `SSH` command to log into my ieng6 account. 
   * ## Step Two (Clone your fork of the repository from your Github account (using the SSH URL))
     * ![Image](cloning.PNG)
     * Key Strokes: `git clone ` <`ctrl + v`> <`enter`>
