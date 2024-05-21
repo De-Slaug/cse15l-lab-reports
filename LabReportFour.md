@@ -1,9 +1,3 @@
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-</div>
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
-</div>
-
 * # Lab Report 4 - The Process
   * ## Step One (Log into ieng6)
     * ![Image](SSH.PNG)
