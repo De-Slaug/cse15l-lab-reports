@@ -1,3 +1,9 @@
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+</div>
+
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
+</div>
+
 * # Lab Report 4 - The Process
   * ## Step One (Log into ieng6)
     * ![Image](SSH.PNG)
@@ -11,7 +17,7 @@
     * ![Image](failedTest.PNG)
     * Key Strokes: `cd lab7` <`enter`> `bash test.sh` <`enter`>
     * Summary: I changed directories into the relevant location, then ran a `bash` script which ran a series of tests. 
-  * ## Step Four (Seven - Edit the code file to fix the failing test)
+  * ## Step Four (Edit the code file to fix the failing test)
     * ![Image](alsoVim.PNG)
     * ![Image](vimOne.PNG)
     * Key Strokes:  `vim ListExamples.java` <`enter`> `k` `k` `k` `k` `k` `k` `l` `l` `l` `l` `l` `l` `l` `l` `l` `l` `l` `x` `i` `2`<`Esc`> `:wq` <`enter`>
